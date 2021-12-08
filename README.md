@@ -2,12 +2,17 @@
 A dark theme made for the Python IDLE.
 
 -- HOW TO ADD TO PYTHON IDLE
+Using the Installer:
+Step 1. Open the installer.
 
+Step 2. That's it!
+
+Manual:
 Step 1. Press Windows Key + R
 
 Step 2. Type " %userprofile%/.idlerc "
 
-Step 3. Paste config-highlight.cfg into the folder.
+Step 3. Paste config-highlight.cfg into the folder (or append the contents if you already have existing themes.)
 
 CONFIG MAIN IS OPTIONAL.
 
