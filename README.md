@@ -1,4 +1,4 @@
-# Python-DarkPlus-IDLE-Theme-
+# Python-DarkPlus-IDLE-Theme
 A dark theme made for the Python IDLE.
 
 -- HOW TO ADD TO PYTHON IDLE
