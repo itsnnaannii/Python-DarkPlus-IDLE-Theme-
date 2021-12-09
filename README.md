@@ -4,11 +4,14 @@ A dark theme made for the Python IDLE.
 -- HOW TO ADD TO PYTHON IDLE
 
 Using the Installer: (Check releases.)
+
 Step 1. Open the installer.
 
 Step 2. That's it!
 
+
 Manual:
+
 Step 1. Press Windows Key + R
 
 Step 2. Type " %userprofile%/.idlerc "
