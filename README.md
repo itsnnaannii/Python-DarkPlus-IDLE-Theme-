@@ -2,7 +2,8 @@
 A dark theme made for the Python IDLE.
 
 -- HOW TO ADD TO PYTHON IDLE
-Using the Installer:
+
+Using the Installer: (Check releases.)
 Step 1. Open the installer.
 
 Step 2. That's it!
