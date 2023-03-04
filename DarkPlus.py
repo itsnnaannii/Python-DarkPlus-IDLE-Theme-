@@ -7,12 +7,13 @@ if name == "nt":
         def clscr():
             __ = system("cls")
 else:
-        print("This program is only intended for Windows. (Enter To Close\n")
+        print("This program is only intended for Windows. (Enter To Close)\n")
         exit()
 
 while True:
     replaceFonts = input("Replace Fonts? [Y/N]\n> ")
-    if replaceFonts == "y":
+    replaceFonts.upper()
+    if replaceFonts == "Y":
         clscr()
         print("Replacing Fonts...")
         time.sleep(1)
@@ -28,7 +29,7 @@ while True:
             print("Failed to Replace Fonts.\nIf you believe this is an error, please contact nani via GitHub.\n")
             time.sleep(3)
             break
-    elif replaceFonts == "n":
+    elif replaceFonts == "N":
         clscr()
         print("Program will not replace fonts.")
         time.sleep(1)
